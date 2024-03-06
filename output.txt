@@ -1,0 +1,1 @@
+Enter the 1 st number of the series = Enter the last number of the series = Enter the increment of the series = Sum of the given series is = 0
